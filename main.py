@@ -33,7 +33,6 @@ def main():
         web.find_element(By.CLASS_NAME, "btn-sm").click()
 
     print("Finished")
-    web.quit()
     return 0
 
 
